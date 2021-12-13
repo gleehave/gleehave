@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a href="www.google.com" target="_blank"><img src="https://img.shields.io/badge/gleehave@gmail.com-000000?style=flat-square&logo=#4285F4&logoColor=FFFFFF"/></a>
+
 
 <!--
 **gleehave/gleehave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
