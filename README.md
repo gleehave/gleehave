@@ -10,6 +10,7 @@
 ### 💻 Skills
 #### Frameworks & Languages
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-000000?style=flat-square"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=#092E20&logoColor=FFFFFF"/></a>
 #### Tools
 <a href="https://www.sourcetree.com/" target="_blank"><img src="https://img.shields.io/badge/Sourcetree-000000?style=flat-square&logo=#0052CC&logoColor=FFFFFF"/></a>
