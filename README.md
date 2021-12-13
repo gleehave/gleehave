@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Android-#3776AB?style=flat-square&logo=Android&logoColor=white"/>
+<a href="www.github.com/gleehave" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
 
 <!--
 **gleehave/gleehave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
