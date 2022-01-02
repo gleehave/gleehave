@@ -7,10 +7,6 @@
 
 ✌🏻 Thank you for your support!
 
-### 🎖 Prize
-#### 🎞 Paper
-
-
 
 ### 💻 Skills
 #### Frameworks & Languages
