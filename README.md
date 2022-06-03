@@ -1,22 +1,24 @@
 ### Contact 👋
 <a href="www.google.com" target="_blank"><img src="https://img.shields.io/badge/Mail: gleehave@gmail.com-000000?style=flat-square&logo=#4285F4&logoColor=FFFFFF"/></a>
 
-🙌🏻 Hi! there! I'm aiming to be a growing developer and Construction Management IT developer.
+🙌🏻 Hello! I'm Gang Ho, Lee. You just call me Glee!
 
-🧑🏻‍💻 I want to be a back-end developer.
+🧑🏻‍💻 I am interested in developing with practical feature and simple code.
 
-✌🏻 Thank you for your support!
+✌🏻 I believe that the joy of development comes when the results of each are in harmony.
 
-
-### 💻 Skills
-#### Frameworks & Languages
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
-<a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-000000?style=flat-square"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=#092E20&logoColor=FFFFFF"/></a>
-#### Tools
-<a href="https://www.sourcetree.com/" target="_blank"><img src="https://img.shields.io/badge/Sourcetree-000000?style=flat-square&logo=#0052CC&logoColor=FFFFFF"/></a>
-<a href="https://www.jetbrains.com/ko-kr/pycharm/" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=#000000&logoColor=FFFFFF"/></a>
-<a href="https://www.autodesk.co.kr/" target="_blank"><img src="https://img.shields.io/badge/Autodesk-000000?style=flat-square&logo=#0696D7&logoColor=FFFFFF"/></a>
+### 💻 Tech
+<a target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/DRF-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/EC2-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/RDS-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/S3-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Unit Test-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Modeling-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Jira-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
 
 <!--
 **gleehave/gleehave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
