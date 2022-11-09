@@ -19,6 +19,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Unit Test-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Modeling-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Jira-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
 
 <!--
 **gleehave/gleehave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
