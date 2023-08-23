@@ -2,11 +2,9 @@
 <a href="www.google.com" target="_blank"><img src="https://img.shields.io/badge/Mail: gleehave@gmail.com-000000?style=flat-square&logo=#4285F4&logoColor=FFFFFF"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
-🙌🏻 Hello! I'm Gang Ho, Lee. You just call me Glee!
+🙌🏻 이강호 입니다.
 
-🧑🏻‍💻 I am interested in developing with practical feature and simple code.
-
-✌🏻 I believe that the joy of development comes when the results of each are in harmony.
+🧑🏻‍💻 만나서 반갑습니다.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleehave&layout=compact)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gleehave)](https://solved.ac/gleehave)
