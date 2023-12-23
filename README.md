@@ -7,7 +7,6 @@
 🧑🏻‍💻 만나서 반갑습니다.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleehave&layout=compact)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=gleehave)](https://solved.ac/gleehave)
 
 
 ### 💻 Tech
