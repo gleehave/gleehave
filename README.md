@@ -8,8 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleehave&layout=compact)
 
-
-개인 블로그(https://gleehave.notion.site/Develper-0171717e8a324bee847ee066ecfbd992?pvs=4)
+<a href="https://gleehave.notion.site/Develper-0171717e8a324bee847ee066ecfbd992?pvs=4">개인 블로그</a>
 
 ### 💻 Tech
 <a target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
