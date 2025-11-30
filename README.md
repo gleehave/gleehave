@@ -6,8 +6,6 @@
 
 🧑🏻‍💻 만나서 반갑습니다.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gleehave&layout=compact)
-
 ### 💻 Tech
 <a target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=#3776AB&logoColor=FFFFFF"/></a>
